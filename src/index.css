@@ -1,0 +1,9 @@
+div.player {
+  position: relative;
+}
+
+div.player div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
